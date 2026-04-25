@@ -1,4 +1,5 @@
-# <img src="assets/logo.png">
+# <img width="468" height="54" alt="logo" src="https://github.com/user-attachments/assets/aa1b4961-9481-44cc-8204-77a5bb3d5803" />
+
 
 Dragoon News is a responsive front-end web application build with react that delivers real-time news articles on a variety of topics, complete with user authentication for personalized access. Built with modern web technologies, the app ensures a seamless user experience across devices and secure login functionality using firebase authentication.let's build the project together. 😎
 
