@@ -17,9 +17,9 @@ export const generateMetaData = async ({ params }) => {
 
 const NewsDetailsPage = async ({ params }) => {
   const { id } = await params;
-  console.log("Params Res : ", id);
+  // console.log("Params Res : ", id);
   const news = await getNewsById(id);
-  console.log("news : ", news);
+  // console.log("news : ", news);
   return (
     <div className="max-w-4xl mx-auto mb-15">
       <h1 className="text-xl my-4">Dragon News</h1>
